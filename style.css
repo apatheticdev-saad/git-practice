@@ -9,3 +9,10 @@ body.dark {
   background-color: #121212;
   color: #ffffff;
 }
+
+nav{
+    background-color: #121212;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
